@@ -3,7 +3,7 @@ Welcome to Matthieu's Portfolio
 
 Who am I?
 
-My name is Matthieu Rouxel an aspiring AI, Mahcine Learning, and Data Scientist, who strives to push himself daily and who constantly is seeking solutions to challenging problems.
+My name is Matthieu Rouxel an aspiring AI, Machine Learning, and Data Scientist, who strives to push himself daily and who constantly is seeking solutions to challenging problems.
 
 List of skills:
 - Problem-Solving
